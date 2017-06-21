@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git Dev Branch Create!
 Git Dev Branch Create Again and Push to Github!
+Creating a new branch is quick & simple.
