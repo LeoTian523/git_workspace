@@ -6,3 +6,4 @@ Git Dev Branch Create!
 Git Dev Branch Create Again and Push to Github!
 Create a new branch is quick and simple.
 test the commit`
+add merge
